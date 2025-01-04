@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\Veritabani\u00D6dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76ADFD54-7F1D-4D74-9E9E-99848785C3E4}|Veritabani\u00D6dev\\Veritabani\u00D6dev.csproj|c:\\users\\suley\\source\\repos\\veritabani\u00F6dev\\veritabani\u00F6dev\\sqlbaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76ADFD54-7F1D-4D74-9E9E-99848785C3E4}|Veritabani\u00D6dev\\Veritabani\u00D6dev.csproj|solutionrelative:veritabani\u00F6dev\\sqlbaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76ADFD54-7F1D-4D74-9E9E-99848785C3E4}|Veritabani\u00D6dev\\Veritabani\u00D6dev.csproj|C:\\Users\\suley\\source\\repos\\Veritabani\u00D6dev\\veritabani\u00F6dev\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{76ADFD54-7F1D-4D74-9E9E-99848785C3E4}|Veritabani\u00D6dev\\Veritabani\u00D6dev.csproj|solutionrelative:veritabani\u00F6dev\\frmhastagiris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sqlBaglantisi.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Veritabani\u00D6dev\\Veritabani\u00D6dev\\sqlBaglantisi.cs",
+              "RelativeDocumentMoniker": "Veritabani\u00D6dev\\sqlBaglantisi.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Veritabani\u00D6dev\\Veritabani\u00D6dev\\sqlBaglantisi.cs",
+              "RelativeToolTip": "Veritabani\u00D6dev\\sqlBaglantisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:44:07.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmHastaGiris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\Veritabani\u00D6dev\\Veritabani\u00D6dev\\FrmHastaGiris.cs",
+              "RelativeDocumentMoniker": "Veritabani\u00D6dev\\FrmHastaGiris.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\Veritabani\u00D6dev\\Veritabani\u00D6dev\\FrmHastaGiris.cs [Design]",
+              "RelativeToolTip": "Veritabani\u00D6dev\\FrmHastaGiris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:32:55.587Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
